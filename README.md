@@ -30,10 +30,6 @@ Hi, I'm Harsh Chamola, a dedicated and versatile full-stack developer with a pas
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh1032&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=21600)
 
-### Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh1032&theme=tokyo-night&hide_border=true)
-
 ### Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Harsh1032&color=blue&style=flat-square)
